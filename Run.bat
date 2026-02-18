@@ -1,1 +1,3 @@
+python -m pytest -v -n=2 --html=Html_Reports\OrangeHRM_Login_chrome.html --alluredir=Allure_Reports --browser chrome
+python -m pytest -v -n=2 --html=Html_Reports\OrangeHRM_Login_firefox.html --alluredir=Allure_Reports --browser firefox
 
